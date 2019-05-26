@@ -1,0 +1,23 @@
+{
+  "name": "move-trailer",
+  "version": "1.0.0",
+  "description": "电影预告",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davy-gan/move-trailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davy-gan/move-trailer/issues"
+  },
+  "homepage": "https://github.com/davy-gan/move-trailer#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
